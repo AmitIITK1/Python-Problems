@@ -1,1 +1,1 @@
-# Here, I am writing daily 10 Python Problems  that I have practised and solved and with time I would update with DSA problems
+# I am solving and documenting 10 Python problems daily. Over time, I plan to include DSA problems as well
