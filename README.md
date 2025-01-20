@@ -1,5 +1,5 @@
 
-# 🚀 Daily Python Practice and Problem-Solving Journey
+##🚀 Daily Python Practice and Problem-Solving Journey
 
 Welcome to my **Daily Python and DSA Practice Repository**! 👩‍💻👨‍💻  
 This repository is a reflection of my journey as I tackle Python problems daily, focusing on honing my problem-solving and programming skills. It also serves as a record of my consistent learning and contributions.
@@ -33,11 +33,7 @@ This repository is a reflection of my journey as I tackle Python problems daily,
 ## 📊 Topics Covered (So Far)
 
 1. **Control Structures** (if-else, loops)
-2. **Functions** (recursion, higher-order functions)
-3. **Data Structures** (lists, dictionaries, tuples)
-4. **Mathematical Problems**
-5. **String Manipulations**
-6. **Sorting and Searching**
+
 
 ---
 
